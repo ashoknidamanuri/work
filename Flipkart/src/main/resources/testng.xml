@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg Session test automation suite">
+   <listeners>
+		<listener class-name="com.flk.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+    
+
+<test name="Different testing feature test">
+
+<classes>
+ 
+<!--<all test cases can run>  </all> -->
+<class name="com.fkt.qa.testcases.LoginPageTest"/>
+<class name="com.fkt.qa.testcases.HomePageTest"/>
+
+<class name="com.fkt.qa.testcases.ProductsPageTest"/>
+<class name="com.fkt.qa.testcases.CartPageTest"/>
+</classes>
+
+</test>
+
+</suite>

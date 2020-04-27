@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg Session test automation suite">
+<test name="Different testing feature test">
+
+
+<classes>
+<!-- <this is for only importnt test cases can run></this> -->
+<class name="com.fkt.qa.testcases.CartPageTest"/>
+<class name="com.fkt.qa.testcases.HomePageTest"/>
+
+
+</classes>
+
+</test>
+
+</suite>
