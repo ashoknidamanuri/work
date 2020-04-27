@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83672" started-at="2020-03-11T06:28:57Z" finished-at="2020-03-11T06:30:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83672" started-at="2020-03-11T06:28:57Z" finished-at="2020-03-11T06:30:21Z">
+      <class name="Work.W3Schools">
+        <test-method status="PASS" signature="f()[pri:1, instance:Work.W3Schools@46d56d67]" name="f" duration-ms="45143" started-at="2020-03-11T06:28:57Z" finished-at="2020-03-11T06:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f2()[pri:2, instance:Work.W3Schools@46d56d67]" name="f2" duration-ms="38468" started-at="2020-03-11T06:29:42Z" finished-at="2020-03-11T06:30:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- Work.W3Schools -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
